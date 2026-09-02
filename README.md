@@ -1,5 +1,7 @@
 # Juego35
  MANUNACHOBENJAIAN
+ DOCUMENTO DE GOOGLE: 
+ https://docs.google.com/document/d/1GFsjViJiPnZ1obTiey-AY4Ti4-jejEsQxB0f-Myzk28/edit?usp=sharing
 Como hacerlo: 
 1. Creá un repositorio compartido
 Uno del grupo crea un repo en GitHub (o GitLab), gratis y sencillo.
