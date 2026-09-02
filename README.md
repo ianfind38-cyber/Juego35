@@ -1,4 +1,4 @@
-# Juego35
+|# Juego35
  MANUNACHOBENJAIAN
  DOCUMENTO DE GOOGLE: 
  https://docs.google.com/document/d/1GFsjViJiPnZ1obTiey-AY4Ti4-jejEsQxB0f-Myzk28/edit?usp=sharing
