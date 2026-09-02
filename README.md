@@ -27,5 +27,3 @@ Punto importante: evitar conflictos
 Git es genial con código y archivos de texto, pero cuidado con editar la misma escena (.tscn) al mismo tiempo que un compañero — ahí sí puede haber conflictos difíciles de resolver a mano. Lo ideal es dividirse el trabajo por escenas o sistemas distintos (uno hace el jugador, otro el nivel, otro la UI) para minimizar choques.
 
 También existe Godot's built-in "Plugins" o herramientas colaborativas en la nube pero Git sigue siendo el estándar de la industria, así que además les sirve como práctica para el futuro.
-
-¿Ya tienen resuelto quién va a crear el repo, o te ayudo a armar la estructura de carpetas inicial del proyecto?
