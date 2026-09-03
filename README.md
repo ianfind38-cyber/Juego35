@@ -1,5 +1,5 @@
 |# Juego35
- MANUNACHOBENJAIAN
+ MANU, NACHO, BENJA, IAN
  DOCUMENTO DE GOOGLE: 
  https://docs.google.com/document/d/1GFsjViJiPnZ1obTiey-AY4Ti4-jejEsQxB0f-Myzk28/edit?usp=sharing
 https://godotengine.org/download/windows/
