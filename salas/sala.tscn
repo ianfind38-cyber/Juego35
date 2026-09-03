@@ -1,0 +1,26 @@
+[gd_scene format=3 uid="uid://b6ncf806r6a0b"]
+
+[ext_resource type="Script" uid="uid://dtrgiut0wvv8y" path="res://node_3d.gd" id="1_8p6ll"]
+[ext_resource type="Texture2D" uid="uid://crdvva268838d" path="res://icon.svg" id="2_num3o"]
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_f6o33"]
+size = Vector3(10, 1, 10)
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_6xc37"]
+albedo_texture = ExtResource("2_num3o")
+uv1_scale = Vector3(3, 2, 1)
+
+[sub_resource type="BoxMesh" id="BoxMesh_f6o33"]
+
+[node name="Sala" type="Node3D" unique_id=1997846119]
+script = ExtResource("1_8p6ll")
+
+[node name="Piso" type="StaticBody3D" parent="." unique_id=1824771797]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="Piso" unique_id=1500166081]
+shape = SubResource("BoxShape3D_f6o33")
+
+[node name="MeshInstance3D" type="MeshInstance3D" parent="Piso" unique_id=664125291]
+transform = Transform3D(10, 0, 0, 0, 1, 0, 0, 0, 10, 0, 0, 0)
+material_override = SubResource("StandardMaterial3D_6xc37")
+mesh = SubResource("BoxMesh_f6o33")
